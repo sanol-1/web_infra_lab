@@ -6,3 +6,4 @@
 # Extracted SSH demo keys (web-03's alpine demo_key)
 demo_key
 alpine_demo_key*
+venv/
