@@ -8,3 +8,6 @@ demo_key
 alpine_demo_key*
 venv/
 venv/
+site/
+site/
+venv/
